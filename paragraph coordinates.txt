@@ -1,0 +1,241 @@
+[vertices {
+  x: 483
+  y: 54
+}
+vertices {
+  x: 665
+  y: 54
+}
+vertices {
+  x: 665
+  y: 89
+}
+vertices {
+  x: 483
+  y: 89
+}
+, vertices {
+  x: 75
+  y: 103
+}
+vertices {
+  x: 315
+  y: 103
+}
+vertices {
+  x: 315
+  y: 146
+}
+vertices {
+  x: 75
+  y: 146
+}
+, vertices {
+  x: 480
+  y: 90
+}
+vertices {
+  x: 718
+  y: 90
+}
+vertices {
+  x: 718
+  y: 199
+}
+vertices {
+  x: 480
+  y: 199
+}
+, vertices {
+  x: 73
+  y: 175
+}
+vertices {
+  x: 285
+  y: 175
+}
+vertices {
+  x: 285
+  y: 239
+}
+vertices {
+  x: 73
+  y: 239
+}
+, vertices {
+  x: 76
+  y: 281
+}
+vertices {
+  x: 278
+  y: 281
+}
+vertices {
+  x: 278
+  y: 299
+}
+vertices {
+  x: 76
+  y: 299
+}
+, vertices {
+  x: 379
+  y: 281
+}
+vertices {
+  x: 735
+  y: 280
+}
+vertices {
+  x: 735
+  y: 315
+}
+vertices {
+  x: 379
+  y: 316
+}
+, vertices {
+  x: 497
+  y: 318
+}
+vertices {
+  x: 735
+  y: 318
+}
+vertices {
+  x: 735
+  y: 332
+}
+vertices {
+  x: 497
+  y: 332
+}
+, vertices {
+  x: 72
+  y: 345
+}
+vertices {
+  x: 744
+  y: 344
+}
+vertices {
+  x: 744
+  y: 519
+}
+vertices {
+  x: 72
+  y: 520
+}
+, vertices {
+  x: 74
+  y: 525
+}
+vertices {
+  x: 748
+  y: 524
+}
+vertices {
+  x: 748
+  y: 656
+}
+vertices {
+  x: 74
+  y: 657
+}
+, vertices {
+  x: 99
+  y: 658
+}
+vertices {
+  x: 744
+  y: 657
+}
+vertices {
+  x: 744
+  y: 672
+}
+vertices {
+  x: 99
+  y: 673
+}
+, vertices {
+  x: 77
+  y: 673
+}
+vertices {
+  x: 746
+  y: 672
+}
+vertices {
+  x: 746
+  y: 708
+}
+vertices {
+  x: 77
+  y: 709
+}
+, vertices {
+  x: 95
+  y: 711
+}
+vertices {
+  x: 469
+  y: 710
+}
+vertices {
+  x: 469
+  y: 723
+}
+vertices {
+  x: 95
+  y: 724
+}
+, vertices {
+  x: 75
+  y: 962
+}
+vertices {
+  x: 224
+  y: 962
+}
+vertices {
+  x: 224
+  y: 983
+}
+vertices {
+  x: 75
+  y: 983
+}
+, vertices {
+  x: 559
+  y: 958
+}
+vertices {
+  x: 747
+  y: 958
+}
+vertices {
+  x: 747
+  y: 981
+}
+vertices {
+  x: 559
+  y: 981
+}
+, vertices {
+  x: 398
+  y: 971
+}
+vertices {
+  x: 425
+  y: 972
+}
+vertices {
+  x: 425
+  y: 981
+}
+vertices {
+  x: 398
+  y: 980
+}
+]
